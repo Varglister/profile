@@ -14,3 +14,10 @@ header#siteheader{
   border:1px solid navyblue;
   border-radius:10px 10px 0 0;
 }
+
+/*styling sitet title*/
+h1#sitetitle{
+  font-family:Arial;
+  font-size:32px;
+  color:orange;
+}
