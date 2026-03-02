@@ -13,11 +13,22 @@ header#siteheader{
   background-image:linear-gradient(greenyellow, cyan, teal);
   border:1px solid darkgrey;
   border-radius:10px 10px 0 0;
+  padding:20px;
 }
 
-/*styling sitet title*/
+/*styling site title*/
 h1#sitetitle{
   font-family:Arial;
   font-size:32px;
-  color:orange;
+  color:orange; 
+  text-align:center;
+}
+
+/*styling site motto*/
+span#sitemotto{
+  font-size:18px;
+  font-family:tahoma;
+  font-style:italic;
+  color:aqua;
+  text-align:center;
 }
