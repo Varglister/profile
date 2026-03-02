@@ -7,7 +7,7 @@ div#divmaincontainer{
 
 /*styling the header of the site */
 
-hearder#siteheader{
+header#siteheader{
   width:100%;
   height:150px;
   background-image:linear-gradient(greenyellow, cyan, teal);
