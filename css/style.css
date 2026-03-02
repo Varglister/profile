@@ -32,3 +32,17 @@ span#sitemotto{
   color:aqua;
   text-align:center;
 }
+
+/*site navigation*/
+nav#sitenav{
+  width:100%;
+  height:30px;
+  background-image:radial-gradient(peach,red);
+}
+
+/*navigation elements*/
+ul#ulnav>li{
+  display: inline;
+  list-style-type:none;
+}
+
