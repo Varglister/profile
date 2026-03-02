@@ -10,6 +10,6 @@ div#divmaincontainer{
 hearder#siteheader{
   width:100%;
   height:150px;
-  background-image:linear-gradient(emaraldorange,cyan,mintgreen);
+  background-image:linear-gradient(greenyellow,cyan,teal);
   border:1px solid navyblue;
 }
